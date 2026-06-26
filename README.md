@@ -8,7 +8,7 @@ Aplicación web para consultar tasas de cambio usando la API pública de [Frankf
 
 API Publica que publica las tasas de cambio del Banco Central Europeo para 33 monedas principales
 
-##IMPORTANTE Para comenzar el servidor se tiene que ejecutar npm start
+##IMPORTANTE Para comenzar el servidor se tiene que ejecutar node backend/server.js
 
 
 ©smashers
